@@ -1,0 +1,274 @@
+[
+  {
+    "id": "1",
+    "name": "2 Sanduíches + Bebida com desconto",
+    "description": "2 Sanduíches + Bebida com desconto",
+    "price": 19.9,
+    "imageUrl": "https://i.imgur.com/8I2aCjH.jpeg",
+    "imageHint": "sandwich combo",
+    "category": "PROMOÇÕES"
+  },
+  {
+    "id": "2",
+    "name": "3 em 1",
+    "description": "Sanduíche + 1 Batata Grande + 1 Tira de Frango",
+    "price": 19.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-promo2/600/400",
+    "imageHint": "combo meal",
+    "category": "PROMOÇÕES"
+  },
+  {
+    "id": "3",
+    "name": "2 Combos do KFC",
+    "description": "2 Combos do Fkc pra você dividir com quem quiser!...",
+    "price": 38.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-promo3/600/400",
+    "imageHint": "combo meal",
+    "category": "PROMOÇÕES"
+  },
+  {
+    "id": "4",
+    "name": "4 Sanduíches com desconto",
+    "description": "Escolha 4 dos seus Sanduíches preferidos do Kfc",
+    "price": 27.8,
+    "imageUrl": "https://picsum.photos/seed/kfc-promo4/600/400",
+    "imageHint": "sandwiches",
+    "category": "PROMOÇÕES"
+  },
+  {
+    "id": "5",
+    "name": "Balde Médio + 2 Sanduíches + Bebida",
+    "description": "O queridinho do Kfc: 1 Balde médio (5 tiras) com Molho + 2 Sanduíches + Bebida de sua escolha",
+    "price": 49.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-promo5/600/400",
+    "imageHint": "bucket combo",
+    "category": "PROMOÇÕES"
+  },
+  {
+    "id": "6",
+    "name": "Balde Mega + 3 Sanduíches",
+    "description": "Aquela combinação para os amantes de Frango Crocante: Compre 1 Balde...",
+    "price": 69.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-galera1/600/400",
+    "imageHint": "bucket combo",
+    "category": "Para se Esbaldar com a galera"
+  },
+  {
+    "id": "7",
+    "name": "Balde Mega + Balde de Batata + Bebida",
+    "description": "Balde Mega + Balde de Batata + Bebida",
+    "price": 79.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-galera2/600/400",
+    "imageHint": "bucket fries drink",
+    "category": "Para se Esbaldar com a galera"
+  },
+  {
+    "id": "8",
+    "name": "Balde Grande + 4 Sanduíches + Balde de Batata",
+    "description": "Pra matar tooodas as fomes: Compre 1 Balde Grande (8 Tiras) + ....",
+    "price": 87.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-galera3/600/400",
+    "imageHint": "large combo",
+    "category": "Para se Esbaldar com a galera"
+  },
+  {
+    "id": "9",
+    "name": "Balde Grande + Balde de batata",
+    "description": "Aqui tem o seu Balde preferido! Compre 1 Balde Grande (8 Tiras) + ...",
+    "price": 67.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-galera4/600/400",
+    "imageHint": "bucket fries",
+    "category": "Para se Esbaldar com a galera"
+  },
+  {
+    "id": "10",
+    "name": "4 Double Crunch + Balde Mega + 4 Molhos",
+    "description": "Chama a Galera pra se Esbaldar! 4 Sanduíches + 1 Balde Mega (escolha...",
+    "price": 117.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-galera5/600/400",
+    "imageHint": "party combo",
+    "category": "Para se Esbaldar com a galera"
+  },
+  {
+    "id": "11",
+    "name": "Balde Mega",
+    "description": "Compre 12 tiras de frango",
+    "price": 57.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-balde1/600/400",
+    "imageHint": "chicken bucket",
+    "category": "Baldes"
+  },
+  {
+    "id": "12",
+    "name": "Balde Grande",
+    "description": "Compre 8 tiras de frango",
+    "price": 47.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-balde2/600/400",
+    "imageHint": "chicken bucket",
+    "category": "Baldes"
+  },
+  {
+    "id": "13",
+    "name": "Balde Médio",
+    "description": "Compre 5 tiras de frango",
+    "price": 27.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-balde3/600/400",
+    "imageHint": "chicken bucket",
+    "category": "Baldes"
+  },
+  {
+    "id": "14",
+    "name": "Combo - Crunch Salad",
+    "description": "Crunch Salad + Batata + Bebida",
+    "price": 19.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-combo1/600/400",
+    "imageHint": "combo meal",
+    "category": "Combos"
+  },
+  {
+    "id": "15",
+    "name": "Combo - Double Crunch",
+    "description": "1 Double Crunch + Batata Média + Bebida",
+    "price": 23.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-combo2/600/400",
+    "imageHint": "combo meal",
+    "category": "Combos"
+  },
+  {
+    "id": "16",
+    "name": "Combo - Double Crunch Cheddar",
+    "description": "1 Double Crunch Cheddar + Batata Média + Bebida",
+    "price": 27.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-combo3/600/400",
+    "imageHint": "combo meal",
+    "category": "Combos"
+  },
+  {
+    "id": "17",
+    "name": "Combo - Double Crunch Bacon",
+    "description": "1 Double Crunch Bacon + Batata Média + Bebida",
+    "price": 29.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-combo4/600/400",
+    "imageHint": "combo meal",
+    "category": "Combos"
+  },
+  {
+    "id": "18",
+    "name": "Combo - Kentucky Chicken Deluxe",
+    "description": "1 Kentucky Chicken Deluxe + Batata Média + Bedida",
+    "price": 32.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-combo5/600/400",
+    "imageHint": "combo meal",
+    "category": "Combos"
+  },
+  {
+    "id": "19",
+    "name": "Wow Box Double Crunch",
+    "description": "2 tiras de frango crocante, salada tropical e maionese temperada no...",
+    "price": 21.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-wow1/600/400",
+    "imageHint": "chicken wrap",
+    "category": "Wow Box"
+  },
+  {
+    "id": "20",
+    "name": "Wow Box Kentucky Chicken Bbo",
+    "description": "Filé de peito de frango extracrocante 120g, queijo tipo cheddar...",
+    "price": 32.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-wow2/600/400",
+    "imageHint": "chicken sandwich",
+    "category": "Wow Box"
+  },
+  {
+    "id": "21",
+    "name": "Crunch Salad",
+    "description": "Filé de peito de frango crocante 70g, salada, tomate, queijo cheddar cre...",
+    "price": 9.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-sand1/600/400",
+    "imageHint": "chicken salad",
+    "category": "Sanduíches individuais"
+  },
+  {
+    "id": "22",
+    "name": "Double Crunch",
+    "description": "2 tiras de frango, salada e maionese temperada no pão com gergelim.",
+    "price": 12.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-sand2/600/400",
+    "imageHint": "chicken sandwich",
+    "category": "Sanduíches individuais"
+  },
+  {
+    "id": "23",
+    "name": "Double Crunch Cheddar",
+    "description": "2 tiras de frango, molho de queijo e cebola crispy.",
+    "price": 15.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-sand3/600/400",
+    "imageHint": "chicken sandwich",
+    "category": "Sanduíches individuais"
+  },
+  {
+    "id": "24",
+    "name": "Kentucky Chicken Bbo",
+    "description": "Filé de peito de frango crocante 120g, queijo tipo cheddar fatiado,...",
+    "price": 19.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-sand4/600/400",
+    "imageHint": "chicken sandwich",
+    "category": "Sanduíches individuais"
+  },
+  {
+    "id": "25",
+    "name": "Batata Média",
+    "description": "batata média",
+    "price": 9.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-side1/600/400",
+    "imageHint": "french fries",
+    "category": "Acompanhamentos"
+  },
+  {
+    "id": "26",
+    "name": "Batata Grande",
+    "description": "batata Grande",
+    "price": 2.9,
+    "originalPrice": 12.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-side2/600/400",
+    "imageHint": "french fries",
+    "discount": "-77%",
+    "category": "Acompanhamentos"
+  },
+  {
+    "id": "27",
+    "name": "Balde de Batata",
+    "description": "Balde de batata",
+    "price": 19.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-side3/600/400",
+    "imageHint": "fries bucket",
+    "category": "Acompanhamentos"
+  },
+  {
+    "id": "28",
+    "name": "2 Wraps",
+    "description": "O mais novo produto do Kfc vem enrolado em uma tortilha deliciosa...",
+    "price": 16.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-side4/600/400",
+    "imageHint": "chicken wrap",
+    "category": "Acompanhamentos"
+  },
+  {
+    "id": "29",
+    "name": "Wrap Crunch",
+    "description": "O mais novo produto do Kfc vem enrolado em uma tortilha deliciosa...",
+    "price": 4.9,
+    "imageUrl": "https://picsum.photos/seed/kfc-side5/600/400",
+    "imageHint": "chicken wrap",
+    "category": "Acompanhamentos"
+  },
+  {
+    "id": "30",
+    "name": "Molho",
+    "description": "Molho",
+    "price": 1,
+    "imageUrl": "https://picsum.photos/seed/kfc-sauce1/600/400",
+    "imageHint": "sauce",
+    "category": "Molhos"
+  }
+]
