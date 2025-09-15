@@ -1,4 +1,2 @@
-# Repositorio projeto KFC Studio | Firebase
+# kfc studio
 
-# Next
-# Node Modules
